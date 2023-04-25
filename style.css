@@ -1,0 +1,23 @@
+
+#divResultSeq {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    color: green;
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+    height: 120px; 
+}
+
+#divResultConv {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    color: green;
+    height: 120px; 
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+
+#canvas-subcontainer {
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+
